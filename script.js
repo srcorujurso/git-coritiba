@@ -1,3 +1,5 @@
-var txt1 = "what a very";
-var txt2 = "nice day";
+var txt1 = "séloco";
+var txt2 = "não compensa";
 console.log(txt1 + " "+txt2)
+
+console.log("não compensa")
