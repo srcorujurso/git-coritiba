@@ -6,3 +6,8 @@ console.log("EU ODEIO O VASCO")
 wefiwieufiwef
 
 console.log("não-compensa")
+
+
+var copo = (salsicha) => {
+    salsicha = "12"
+}
